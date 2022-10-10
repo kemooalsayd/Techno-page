@@ -21,7 +21,7 @@ body{
     margin: auto;
 }
 header{
-    background-image: url(/img/bg.jpg);
+    background-image: url(img/bg.jpg);
     padding: 20px;
     color: var(--white);
     font-size: 20px;
@@ -39,7 +39,7 @@ header nav{
 .main{
     height: 650px;
     padding-top: 100px;
-    background-image:url(/img/bg.jpg);
+    background-image:url(img/bg.jpg);
 }
 .main section {
     display: flex;
@@ -139,7 +139,7 @@ header nav{
     background-color: var(--blue);
 }
 .main-3{
-    background-image: url(/img/bg.jpg);
+    background-image: url(img/bg.jpg);
 }
 .main-3 .container{
     display: flex;
@@ -215,7 +215,7 @@ header nav{
     width: 100%;
 }
 .main-5{
-    background-image: url(/img/bg.jpg);
+    background-image: url(img/bg.jpg);
     height: 700px;
 
 }
@@ -225,7 +225,7 @@ header nav{
 .bg-line{
     width: 50%;
     height: 100%;
-    background-image: url(/img/bg-lines.png);
+    background-image: url(img/bg-lines.png);
 }
 .touch{
     width: 70%;
@@ -233,7 +233,7 @@ header nav{
     position: absolute;
     top:0;
     left:10%;
-    background-image: url(/img/man-click.jpg);
+    background-image: url(img/man-click.jpg);
 
 }
 .main-5 .s-c{
@@ -289,11 +289,11 @@ header nav{
     position: absolute;
     top:0;
     left:10%;
-    background-image: url(/img/mb-mokup.jpg);
+    background-image: url(img/mb-mokup.jpg);
     background-position: center;
 }
 .contact{
-    background-image: url(/img/bg.jpg);
+    background-image: url(img/bg.jpg);
     padding: 1px;
 }
 .contact .title{
